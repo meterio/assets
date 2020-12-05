@@ -1,0 +1,40 @@
+{
+    "name": "Meter Governance",
+    "website": "https://www.meter.io/",
+    "source_code": "https://github.com/meterio",
+    "short_description": "MTRG is the ERC-20 system contract for MTRG, the governance coin of the Meter network.",
+    "description": "The ERC20 system contract provides a ERC20 interface for the native MTRG.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Meter_IO",
+            "handle": "Meter_IO"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/Meter_IO",
+            "handle": "Meter_IO"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/r/Meter_io/",
+            "handle": "Meter_io"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/XZgZsCn",
+            "handle": "Meter Project"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/MeterFoundation/",
+            "handle": "MeterFoundation"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/company/meterio/",
+            "handle": "Meterio"
+        }
+    ],
+    "explorer": "https://scan.meter.io/token/0x228ebBeE999c6a7ad74A6130E81b12f9Fe237Ba3"
+}

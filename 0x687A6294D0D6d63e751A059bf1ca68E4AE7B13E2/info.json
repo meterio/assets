@@ -1,0 +1,40 @@
+{
+    "name": "Meter Currency/Gas",
+    "website": "https://www.meter.io/",
+    "source_code": "https://github.com/meterio",
+    "short_description": "MTR is the ERC-20 system contract for MTR, the currency/gas coin of the Meter network.",
+    "description": "The ERC20 system contract provides a ERC20 interface for the native MTR.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Meter_IO",
+            "handle": "Meter_IO"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/Meter_IO",
+            "handle": "Meter_IO"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/r/Meter_io/",
+            "handle": "Meter_io"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/XZgZsCn",
+            "handle": "Meter Project"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/MeterFoundation/",
+            "handle": "MeterFoundation"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/company/meterio/",
+            "handle": "Meterio"
+        }
+    ],
+    "explorer": "https://scan.meter.io/token/0x687A6294D0D6d63e751A059bf1ca68E4AE7B13E2"
+}
